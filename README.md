@@ -52,7 +52,7 @@ Building this project independently was less about writing code and more about u
 
 ### Mobile
 
-![Mobile view of the Single Page CV](screenshots/png)
+![Mobile view of the Single Page CV](screenshots/mobile.png)
 
 ---
 
