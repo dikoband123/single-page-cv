@@ -60,9 +60,12 @@ Building this project independently was less about writing code and more about u
 
 ```text
 single-page-cv/
-├── index.html    # Main HTML structure with semantic elements
-├── style.css     # Custom responsive styles
-└── README.md     # Project documentation
+├── screenshots/
+│   ├── desktop.png   # Desktop preview
+│   └── mobile.png    # Mobile preview
+├── index.html        # Main HTML structure with semantic elements
+├── style.css         # Custom responsive styles
+└── README.md         # Project documentation
 ```
 
 ---
